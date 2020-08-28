@@ -1,15 +1,16 @@
 # Sofia Santos
 
-Hello there! 👋😊 I'm Sofia (she/her) and I'm a student at University of Minho, currently getting a degree in Software Engineering. 
+Hello there! 👋😊 I'm Sofia (she/her) and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. I was born and raised in Braga 🇵🇹, where I currently live and study. I love sci-fi stuff 👾, LEGO 🧱 and pizza 🍕, among other things. I'm a bit of an introvert, but I still really enjoy hanging out with friends 👩‍🤝‍👩, and during my alone time I like to listen to music 🎵, play some video games 🎮, or just watch something on Netflix 🍿.
 
-I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
+I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles). There's also a couple of small scripts there, some of which I made from scratch.
 
-## My college projects and solved exercises
+## My college projects and solved exercises 🎓
 
 ### 1st year
 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/RisingFisan/Programacao-Funcional)
 - **Laboratórios de Informática I** - Haskell - [Project](https://github.com/RisingFisan/Tanks-LI1)
+
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/RisingFisan/Programacao-Imperativa)
 - **Laboratórios de Informática II** - C - [Exercises](https://github.com/RisingFisan/LI2) - [Project](https://github.com/RisingFisan/Reversi_LI2)
 
@@ -18,6 +19,15 @@ I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
 - **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Project](https://github.com/RisingFisan/Projeto-POO)
 - **Sistemas Operativos** (Operating Systems) - C - [Project](https://github.com/RisingFisan/Projeto-SO)
 
+## My programming skills 💻
+
+- Python
+- Haskell
+- C
+- Java
+- Rust (just started learning)
+
+I hope I can add as many items to this list as possible!
 
 <!--
 
