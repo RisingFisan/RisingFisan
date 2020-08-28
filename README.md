@@ -6,16 +6,17 @@ I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
 
 ## My college projects and solved exercises 🎓
 
-### 1st year
+### 1st year - 1st semester
 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/RisingFisan/Programacao-Funcional)
 - **Laboratórios de Informática I** - Haskell - [Project](https://github.com/RisingFisan/Tanks-LI1)
 
+### 1st year - 2nd semester
 
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/RisingFisan/Programacao-Imperativa)
 - **Laboratórios de Informática II** - C - [Exercises](https://github.com/RisingFisan/LI2) - [Project](https://github.com/RisingFisan/Reversi_LI2)
 
-### 2nd year
+### 2nd year - 2nd semester
 
 - **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Project](https://github.com/RisingFisan/Projeto-POO)
 - **Sistemas Operativos** (Operating Systems) - C - [Project](https://github.com/RisingFisan/Projeto-SO)
