@@ -11,6 +11,7 @@ I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/RisingFisan/Programacao-Funcional)
 - **Laboratórios de Informática I** - Haskell - [Project](https://github.com/RisingFisan/Tanks-LI1)
 
+
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/RisingFisan/Programacao-Imperativa)
 - **Laboratórios de Informática II** - C - [Exercises](https://github.com/RisingFisan/LI2) - [Project](https://github.com/RisingFisan/Reversi_LI2)
 
