@@ -35,6 +35,9 @@ I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
 
 I hope I can add as many items to this list as possible!
 
+
+![RisingFisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=risingfisan&count_private=true&show_icons=true)
+
 <!--
 
 **RisingFisan/RisingFisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
