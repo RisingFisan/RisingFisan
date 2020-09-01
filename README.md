@@ -6,7 +6,7 @@ Hello there! 👋😊 I'm Sofia (she/her) and I'm a student at University of Min
 
 I was born and raised in Braga 🇵🇹, where I currently live and study. I love sci-fi stuff 👾, LEGO 🧱 and pizza 🍕, among other things. I'm a bit of an introvert, but I still really enjoy hanging out with friends 👩‍🤝‍👩, and during my alone time I like to listen to music 🎵, play some video games 🎮, or just watch something on Netflix 🍿.
 
-I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles). There's also a couple of small scripts there, some of which I made from scratch.
+I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfiles)! There are also a couple of small scripts there, some of which I made from scratch.
 
 ## My college projects and solved exercises 🎓
 
