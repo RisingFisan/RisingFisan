@@ -22,7 +22,7 @@ I use arch btw, here are my [dotfiles](https://github.com/RisingFisan/dotfiles).
 
 ### 2nd year - 2nd semester
 
-- **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Project](https://github.com/RisingFisan/Projeto-POO)
+- **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Exercises](https://github.com/RisingFisan/POO) - [Project](https://github.com/RisingFisan/Projeto-POO)
 - **Sistemas Operativos** (Operating Systems) - C - [Exercises](https://github.com/RisingFisan/SO) - [Project](https://github.com/RisingFisan/Projeto-SO)
 
 ## My programming skills 💻
