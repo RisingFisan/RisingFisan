@@ -31,6 +31,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 - Haskell
 - C
 - Java
+- SQL
 - Rust (just started learning)
 
 I hope I can add as many items to this list as possible!
