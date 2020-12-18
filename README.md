@@ -29,6 +29,11 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 
 - **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD)
 
+## My other projects 🧩
+
+- [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
+- [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
+
 ## My programming skills 💻
 
 - Python
