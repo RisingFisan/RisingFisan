@@ -25,6 +25,10 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 - **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Exercises](https://github.com/RisingFisan/POO) - [Project](https://github.com/RisingFisan/Projeto-POO)
 - **Sistemas Operativos** (Operating Systems) - C - [Exercises](https://github.com/RisingFisan/SO) - [Project](https://github.com/RisingFisan/Projeto-SO)
 
+### 3rd year - 1st semester
+
+- **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD)
+
 ## My programming skills 💻
 
 - Python
