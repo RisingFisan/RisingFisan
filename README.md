@@ -27,7 +27,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 
 ### 3rd year - 1st semester
 
-- **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD)
+- **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD) - [Project](https://github.com/RisingFisan/TrabalhoSD)
 
 ## My other projects 🧩
 
