@@ -23,10 +23,6 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 [![PF](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=Programacao-Funcional&theme=jolly&hide_border=true)](https://github.com/RisingFisan/Programacao-Funcional)
 [![LI1](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=Tanks-LI1&theme=react&hide_border=true)](https://github.com/RisingFisan/Tanks-LI1)
 
-<!--
-- **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/RisingFisan/Programacao-Funcional)
-- **Laboratórios de Informática I** - Haskell - [Project](https://github.com/RisingFisan/Tanks-LI1)
--->
 ### 1st year - 2nd semester
 
 [![PI](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=Programacao-Imperativa&theme=jolly&hide_border=true)](https://github.com/RisingFisan/Programacao-Imperativa)
@@ -34,10 +30,6 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 [![LI2-Exs](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=LI2&theme=react&hide_border=true)](https://github.com/RisingFisan/LI2)
 [![LI2-Proj](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=Reversi_LI2&theme=react&hide_border=true)](https://github.com/RisingFisan/Reversi_LI2)
 
-<!--
-- **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/RisingFisan/Programacao-Imperativa)
-- **Laboratórios de Informática II** - C - [Exercises](https://github.com/RisingFisan/LI2) - [Project](https://github.com/RisingFisan/Reversi_LI2)
--->
 ### 2nd year - 2nd semester
 
 [![POO-Exs](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=POO&theme=jolly&hide_border=true)](https://github.com/RisingFisan/POO)
@@ -46,18 +38,10 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 [![SO-Exs](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=SO&theme=jolly&hide_border=true)](https://github.com/RisingFisan/SO)
 [![SO-Proj](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=Projeto-SO&theme=react&hide_border=true)](https://github.com/RisingFisan/Projeto-SO)
 
-<!--
-- **Programação Orientada aos Objetos** (Object Oriented Programming) - Java - [Exercises](https://github.com/RisingFisan/POO) - [Project](https://github.com/RisingFisan/Projeto-POO)
-- **Sistemas Operativos** (Operating Systems) - C - [Exercises](https://github.com/RisingFisan/SO) - [Project](https://github.com/RisingFisan/Projeto-SO)
--->
 ### 3rd year - 1st semester
 
 [![SD-Exs](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=SD&theme=jolly&hide_border=true)](https://github.com/RisingFisan/SD)
 [![SD-Proj](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=TrabalhoSD&theme=react&hide_border=true)](https://github.com/RisingFisan/TrabalhoSD)
-
-<!--
-- **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD) - [Project](https://github.com/RisingFisan/TrabalhoSD)
--->
 
 ### 3rd year - 2nd semester
 
