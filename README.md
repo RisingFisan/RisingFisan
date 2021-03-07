@@ -1,14 +1,22 @@
-# Sofia Santos
+# Hello there! <img src="https://raw.githubusercontent.com/RisingFisan/RisingFisan/master/hand_wave.gif" width="30px"> I'm Sofia! 😊
 
-Hello there! 👋😊 I'm Sofia (she/her) and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
+[![LinkedIn badge](https://img.shields.io/badge/-sofiarsantos31-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofiarsantos31)
+[![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sofiar.santos/)
+[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com)
+<!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
-## About me 💜
 
-I was born and raised in Braga 🇵🇹, where I currently live and study. I love sci-fi stuff 👾, LEGO 🧱 and pizza 🍕, among other things. I'm a bit of an introvert, but I still really enjoy hanging out with friends 👩‍🤝‍👩, and during my alone time I like to listen to music 🎵, play some video games 🎮, or just watch something on Netflix 🍿.
+I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
+
+## 💜 About me
+
+I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a full-time geek and LEGO lover, with a small passion for writing. 
+
+My pronouns are she/her. 🤍
 
 I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfiles)! There are also a couple of small scripts there, some of which I made from scratch.
 
-## My college projects and solved exercises 🎓
+## 🎓 My college projects and solved exercises
 
 ### 1st year - 1st semester
 
@@ -29,12 +37,12 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 
 - **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD) - [Project](https://github.com/RisingFisan/TrabalhoSD)
 
-## My other projects 🧩
+## 🧩 My other projects
 
 - [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
 - [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
 
-## My programming skills 💻
+## 💻 My programming skills
 
 - Python
 - Haskell
@@ -43,10 +51,11 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 - SQL
 - Rust (just started learning)
 
-I hope I can add as many items to this list as possible!
+Hopefully I can add as many items to this list as possible in the future!
 
 
-![RisingFisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=risingfisan&count_private=true&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=risingfisan&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risingfisan&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
