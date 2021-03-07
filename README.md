@@ -55,6 +55,11 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 <!--
 - **Sistemas Distribuídos** (Distributed Systems) - Java - [Exercises](https://github.com/RisingFisan/SD) - [Project](https://github.com/RisingFisan/TrabalhoSD)
 -->
+
+### 3rd year - 2nd semester
+
+[![CG-Exs](https://github-readme-stats.vercel.app/api/pin/?username=risingfisan&repo=CG&theme=jolly&hide_border=true)](https://github.com/RisingFisan/CG)
+
 ## 🧩 My other projects
 
 - [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
