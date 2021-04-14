@@ -43,6 +43,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester | | |
 | --- | :---: | :---: |
 | Sistemas Distribuídos | [Exercises](https://github.com/RisingFisan/SD) | [Project](https://github.com/RisingFisan/TrabalhoSD) |
+| Redes de Computadores | - | [Projects](https://github.com/RisingFisan/RC) |
 
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | |
