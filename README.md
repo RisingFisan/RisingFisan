@@ -44,6 +44,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 | --- | :---: | :---: |
 | Sistemas Distribuídos | [Exercises](https://github.com/RisingFisan/SD) | [Project](https://github.com/RisingFisan/TrabalhoSD) |
 | Redes de Computadores | - | [Projects](https://github.com/RisingFisan/RC) |
+| Bases de Dados | - | [Project](https://github.com/RisingFisan/Trabalho-BD) |
 
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | |
