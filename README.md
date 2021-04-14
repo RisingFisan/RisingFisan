@@ -37,6 +37,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 | --- | :---: | :---: |
 | Programação Orientada aos Objetos | [Exercises](https://github.com/RisingFisan/POO) | [Project](https://github.com/RisingFisan/Projeto-POO) |
 | Sistemas Operativos | [Exercises](https://github.com/RisingFisan/SO) | [Project](https://github.com/RisingFisan/Projeto-SO) |
+| Laboratórios de Informática III | - | [Projects](https://github.com/RisingFisan/LI3)
 
 
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester | | |
