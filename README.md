@@ -51,7 +51,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | |
 | --- | :---: | :---: |
 | Computação Gráfica | [Exercises](https://github.com/RisingFisan/CG) | Coming soon |
-| Processamento de Linguagens | [Exercises](https://github.com/RisingFisan/PL) | Coming soon |
+| Processamento de Linguagens | [Exercises](https://github.com/RisingFisan/PL) | [Projects](https://github.com/RisingFisan/Trabalhos-PL) |
 
 ## 🧩 My other projects
 
