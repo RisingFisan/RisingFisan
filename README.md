@@ -6,7 +6,7 @@
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
 
-I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
+I'm a student at University of Minho, where I'm getting a master's degree in Software Engineering 👩‍💻. 
 
 ## 💜 About me
 
@@ -64,8 +64,9 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 - Haskell
 - C
 - Java
-- SQL
-- Rust (just started learning)
+- MySQL / PostgreSQL
+- Ruby / Ruby on Rails
+- Rust
 
 Hopefully I can add as many items to this list as possible in the future!
 
