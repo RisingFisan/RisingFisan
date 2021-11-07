@@ -14,8 +14,6 @@ I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a
 
 My pronouns are she/her. 🤍
 
-I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfiles)! There are also a couple of small scripts there, some of which I made from scratch.
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=risingfisan&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risingfisan&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -57,6 +55,7 @@ I use arch btw 😳, here are my [dotfiles](https://github.com/RisingFisan/dotfi
 
 - [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
 - [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
+- [**dotfiles**](https://github.com/RisingFisan/dotfiles)
 
 ## 💻 My programming skills
 
