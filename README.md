@@ -35,7 +35,8 @@ My pronouns are she/her. 🤍
 | --- | :---: | :---: |
 | Programação Orientada aos Objetos | [Exercises](https://github.com/RisingFisan/POO) | [Project](https://github.com/RisingFisan/Projeto-POO) |
 | Sistemas Operativos | [Exercises](https://github.com/RisingFisan/SO) | [Project](https://github.com/RisingFisan/Projeto-SO) |
-| Laboratórios de Informática III | - | [Projects](https://github.com/RisingFisan/LI3)
+| Laboratórios de Informática III | - | [Projects](https://github.com/RisingFisan/LI3) |
+| Cálculo de Programas | - | [Project](https://github.com/RisingFisan/Projeto-CP) |
 
 
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester | | |
@@ -48,7 +49,7 @@ My pronouns are she/her. 🤍
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | |
 | --- | :---: | :---: |
-| Computação Gráfica | [Exercises](https://github.com/RisingFisan/CG) | Coming soon |
+| Computação Gráfica | [Exercises](https://github.com/RisingFisan/CG) | [Project](https://github.com/RuiArmada/Projeto-CG) |
 | Processamento de Linguagens | [Exercises](https://github.com/RisingFisan/PL) | [Projects](https://github.com/RisingFisan/Trabalhos-PL) |
 
 ## 🧩 My other projects
