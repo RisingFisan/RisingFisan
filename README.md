@@ -6,11 +6,11 @@
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
 
-I'm a student at University of Minho, where I'm getting a master's degree in Software Engineering 👩‍💻. 
+I'm a student at University of Minho, where I'm getting a master's degree in Software Engineering 👩‍💻. I'm also an invited assistant at University do Minho, currently teaching Functional Programming to first-year students. 👩‍🏫
 
 ## 💜 About me
 
-I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a full-time geek and LEGO lover, with a small passion for writing. 
+I was born and raised in Braga 🇵🇹, where I currently live, study and work. I'm a full-time geek and LEGO lover, with a small passion for writing. 
 
 My pronouns are she/her. 🤍
 
