@@ -62,9 +62,10 @@ My pronouns are she/her. 🤍
 
 - Python
 - Haskell
-- C
+- C / C++
 - Java
-- MySQL / PostgreSQL
+- Elixir / Phoenix
+- MySQL / PostgreSQL / MongoDB
 - Ruby / Ruby on Rails
 - Rust
 
