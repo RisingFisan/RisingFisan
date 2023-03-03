@@ -68,7 +68,8 @@ My pronouns are she/her. 🤍
 - MySQL / PostgreSQL / MongoDB
 - Ruby / Ruby on Rails
 - Rust
-- NodeJS
+- HTML / CSS (TailwindCSS lover)
+- Javascript
 
 Hopefully I can add as many items to this list as possible in the future!
 
