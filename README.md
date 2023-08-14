@@ -6,7 +6,7 @@
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
 
-I'm a graduate student of Software Engineering at University of Minho 👩‍💻. I'm also an invited assistant at University of Minho, currently teaching Imperative Programming and Language Processing classes. 👩‍🏫
+I'm a graduate student of Software Engineering at University of Minho 👩‍💻. I'm also an invited assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
 
 ## 💜 About me
 
@@ -49,8 +49,12 @@ My pronouns are she/her. 🤍
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | |
 | --- | :---: | :---: |
-| Computação Gráfica | [Exercises](https://github.com/RisingFisan/CG) | [Project](https://github.com/RuiArmada/Projeto-CG) |
+| Computação Gráfica | [Exercises](https://github.com/RisingFisan/CG) | [Project](https://github.com/RuiArmada/GEngine) |
 | Processamento de Linguagens | [Exercises](https://github.com/RisingFisan/PL) | [Projects](https://github.com/RisingFisan/Trabalhos-PL) |
+
+| Master's Dissertation |
+| --- |
+| [ACE Grader](https://github.com/RisingFisan/ACE_Grader) |
 
 ## 🧩 My other projects
 
