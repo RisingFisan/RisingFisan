@@ -10,7 +10,7 @@ I'm a graduate student of Software Engineering at University of Minho 👩‍�
 
 ## 💜 About me
 
-I was born and raised in Braga 🇵🇹, where I currently live, study and work. I'm a full-time geek and LEGO lover, with a small passion for writing. 
+I was born and raised in Braga 🇵🇹, where I currently live, study and work. I'm a full-time geek and LEGO lover, with a small passion for cinema and writing. 
 
 My pronouns are she/her. 🤍
 
