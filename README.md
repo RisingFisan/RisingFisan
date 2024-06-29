@@ -2,7 +2,6 @@
 
 [![LinkedIn badge](https://img.shields.io/badge/-sofiarsantos31-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofiarsantos31)
 [![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sofiar.santos/)
-[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com)
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
 
