@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/RisingFisan/RisingFisan/master/hand_wave.gif" width="30"> I'm Sofia! 😊</h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/RisingFisan/RisingFisan/master/hand_wave.gif" width="30"> I'm Sofia (she/her)! 😊</h1>
 
 [![LinkedIn badge](https://img.shields.io/badge/-sofiarsantos31-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofiarsantos31)
 [![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sofiar.santos/)
