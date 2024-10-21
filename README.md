@@ -5,7 +5,7 @@
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
 
-I'm a PhD student and invited assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
+I'm a software engineer and invited assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
 
 ## 💜 About me
 
