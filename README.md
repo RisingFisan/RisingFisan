@@ -56,6 +56,7 @@ I was born and raised in Braga 🇵🇹, where I currently live, study and work.
 ## 🧩 My other projects
 
 - [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
+- [**Site PF**](https://github.com/RisingFisan/site_pf) - Web app containing solved Haskell exercises and explanations.
 - [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
 - [**dotfiles**](https://github.com/RisingFisan/dotfiles)
 
