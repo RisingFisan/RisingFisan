@@ -61,18 +61,41 @@ I was born and raised in Braga 🇵🇹, where I currently live, study and work.
 
 ## 💻 My programming skills
 
+### Languages 
+
 - Python
+- Elixir
+- HTML / CSS (TailwindCSS lover)
+- JavaScript / TypeScript
 - Haskell
 - C / C++
 - Java
-- Elixir / Phoenix
-- MySQL / PostgreSQL / MongoDB
-- Ruby / Ruby on Rails
+- SQL / NoSQL
+- Ruby
 - Rust
-- HTML / CSS (TailwindCSS lover)
-- Javascript
 
-Hopefully I can add as many items to this list as possible in the future!
+### Frameworks
+
+- Phoenix
+- Ruby on Rails
+- Django / Flask
+- Astro
+- SvelteKit
+
+### UI Frameworks
+
+- Svelte
+- Alpine
+- React
+- Vue
+
+### Areas
+
+- Front-end Development
+- Back-end Development
+- Machine Learning
+- Natural Language Processing
+- Database Management
 
 <!--
 
