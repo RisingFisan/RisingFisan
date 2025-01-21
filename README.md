@@ -4,12 +4,13 @@
 [![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sofiar.santos/)
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
+I'm a Software Engineer at Critical Manufacturing and Invited Assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
 
-I'm a software engineer and invited assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
+<div align="center"> Check out my website: <a href="https://www.sofiars.xyz">www.sofiars.xyz</a> </div>
 
 ## 💜 About me
 
-I was born and raised in Braga 🇵🇹, where I currently live, study and work. I'm a full-time geek and LEGO lover, with a small passion for cinema and writing. 
+I was born and raised in Braga 🇵🇹, where I currently live. I'm a full-time geek and LEGO lover, with a small passion for cinema and writing. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=risingfisan&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risingfisan&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
