@@ -61,44 +61,6 @@ I was born and raised in Braga 🇵🇹, where I currently live. I'm a full-time
 - [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
 - [**dotfiles**](https://github.com/RisingFisan/dotfiles)
 
-## 💻 My programming skills
-
-### Languages 
-
-- Python
-- Elixir
-- HTML / CSS (TailwindCSS lover)
-- JavaScript / TypeScript
-- Haskell
-- C / C++
-- Java
-- SQL / NoSQL
-- Ruby
-- Rust
-
-### Frameworks
-
-- Phoenix
-- Ruby on Rails
-- Django / Flask
-- Astro
-- SvelteKit
-
-### UI Frameworks
-
-- Svelte
-- Alpine
-- React
-- Vue
-
-### Areas
-
-- Front-end Development
-- Back-end Development
-- Machine Learning
-- Natural Language Processing
-- Database Management
-
 <!--
 
 **RisingFisan/RisingFisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
