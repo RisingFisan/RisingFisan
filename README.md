@@ -4,8 +4,6 @@
 [![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sofiar.santos/)
 <!--[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sofiarsantos31@gmail.com) -->
 
-I'm a Software Engineer at Critical Manufacturing and Invited Assistant at University of Minho, currently teaching Functional Programming and Language Processing classes. 👩‍🏫
-
 <div align="center"> Check out my website: <a href="https://www.sofiars.xyz">www.sofiars.xyz</a> </div>
 
 ## 💜 About me
